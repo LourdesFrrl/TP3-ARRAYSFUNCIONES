@@ -44,4 +44,4 @@ T3-ARREGLOS/
 ```
 ## Autor
 
-Poryecto realizado por Lourdes Ferraioli como parte de la practica de arreglos y funciones de javascript.
+Proyecto realizado por Lourdes Ferraioli como parte de la practica de arreglos y funciones de javascript.
